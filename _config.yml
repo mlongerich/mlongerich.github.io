@@ -31,7 +31,8 @@ facebook_username: longerich
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 # Exclude from processing.
