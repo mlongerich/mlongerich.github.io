@@ -1,0 +1,40 @@
+// Import Core Clean Blog SCSS
+@import '../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss';
+
+header.masthead .overlay {
+  opacity: 0.2;
+}
+
+.lead {
+  line-height: 28px;
+  margin: 20px 0px 30px 0px;
+}
+
+.btn {
+  font-size: 14px;
+  font-weight: 800;
+  padding: 15px 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+  border-radius: 0.25rem;
+
+  @include sans-serif-font;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    background-color: darken($primary, 7.5) !important;
+    border-color: darken($primary, 7.5) !important;
+  }
+}
+
+.btn-lg {
+  font-size: 16px;
+  padding: 25px 35px;
+}
