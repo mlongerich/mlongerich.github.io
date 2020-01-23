@@ -12,11 +12,13 @@ background: '/assets/img/cover.jpg'
     </p>
   </div>
   <div class="col-md-8 col-lg-8">
-    <p>Deborah and Michael have served as missionaries to Asia for 15 years. Deborah is the Vice President of Marketing and Hope House Manager for <a href="https://projectsforasia.com">Projects For Asia Charitable Foundation</a>. Michael is the Information Technology Manager. They have two wonderful children who were both born and raised in Chaing Mai, Thailand.
-    </p>
+    <p>Deborah and Michael have been serving as missionaries to Asia for 15 years.</p>
+    <p>Deborah is the Vice President of Marketing and Hope House Manager for <a href="https://projectsforasia.com">Projects For Asia Charitable Foundation</a>. Michael is the Information Technology Manager. </p>
+    <p>They have two wonderful children who were both born and raised in Chaing Mai, Thailand.</p>
   </div>
 </div>
 
+<hr style="margin-bottom:50px;" />
 <h5 class="title-bg" style="text-align:center;">Paypal Donations for Deborah Longerich and Family</h5>
 <div class="container-fluid">
     <div class="row">

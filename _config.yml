@@ -23,8 +23,8 @@ email: mlongerich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   # Welcome to the Longerich family adventure in Thailand.
   # Find out what we're doing and how you can be part of our journey.
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://longeri.ch' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://longeri.ch' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
 facebook_username: longerich
